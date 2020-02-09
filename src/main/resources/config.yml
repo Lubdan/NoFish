@@ -1,0 +1,6 @@
+Disabled-Worlds:
+  - "ExampleWorld"
+  - "KitMap"
+  - "world1"
+
+Message: "&c You cannot fish in this world!"

@@ -1,0 +1,3 @@
+name: NoFish
+version: ${project.version}
+main: lubdan.nofish.NoFish
